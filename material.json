@@ -1,0 +1,20 @@
+{
+    "name": "wuliaoyuan2",
+    "title": "wuliaoyuan2",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/chenxing-lh/wuliao2.git",
+        "private": 1,
+        "auth": {
+            "username": "381606250@qq.com",
+            "password": "02wDwAqzcbB1H0VKUmSnTXK3K5wUaE+5n2EtucrL8HKFJeh9h74Jq4TSIiAx4aCPMhWrEdd9GKI129KnrZgNNg=="
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 207
+}
